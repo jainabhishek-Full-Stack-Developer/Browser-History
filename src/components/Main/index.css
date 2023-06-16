@@ -1,0 +1,37 @@
+* {
+  font-family: 'Roboto';
+}
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0.5% 1%;
+  align-items: center;
+  width: 100vw;
+  padding: 5px 6%;
+}
+.sub {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0px 5%;
+}
+.super {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 90%;
+  align-items: center;
+}
+.poo {
+  width: 3vw;
+  height: 5vh;
+}
+.para {
+  margin-left: 20px;
+}
+.bt {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
